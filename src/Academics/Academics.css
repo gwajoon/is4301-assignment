@@ -1,0 +1,18 @@
+.academics-container {
+  text-align: center;
+}
+
+.modules-table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.modules-table th, .modules-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.mandarin-orange {
+  background-color: #ffae42;
+  padding: 16px;
+}
