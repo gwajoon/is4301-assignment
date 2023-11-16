@@ -1,0 +1,8 @@
+.admission-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.admission-list li {
+  margin-bottom: 10px;
+}
